@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Creativity`,
+    title: `Creative`,
     author: `Josh Larson`,
     description: `A challenge: to create something every day.`,
     siteUrl: `https://creative.jplhomer.org/`,
