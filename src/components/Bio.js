@@ -28,7 +28,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Des Moines, Iowa building weird things.
+              A 30-day creative challenge.
+              {` `}
+              Posts written by <strong>{author}</strong> who lives and works in Des Moines, Iowa building weird things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
