@@ -13,6 +13,14 @@ This is a New Years Nutrition challenge put on by my local Crossfit gym. Here's 
 1. **Drink Enough Water**: Half of your body weight, in ounces. This is *112oz* for me.
 1. **Get Enough Movement**: At least 10 minutes of purposeful movement per day.
 
+## How's it going so far?
+
+It's going OK. I'm on day #2. The hardest parts have been:
+
+- **Veggies in the morning.** Gross, right? Stir fry is the best I can come up with so far. Open to any suggestions you might have.
+- **Did I mention veggies?** How do you people eat vegetables all the goddamned time? I'm running out of combinations that don't involve a "stirfry" or a "spinach salad."
+- **I wouldn't mind a cookie or a brownie or a beer.** Self-explanatory.
+
 ## But why?
 
 I've been a member of Crossfit Waukee for almost three years. I've grown a ton in my strength, conditioning and weightlifting/gymnastic skills. But I've stopped short when it's come to eating right.
