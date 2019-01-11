@@ -100,3 +100,5 @@ exports.onRouteUpdate = () => {
 https://twitter.com/jon_bois/status/1081561495203393543
 
 Yeah, babyyyy!
+
+Check out the [commit containing all the changes](https://github.com/jplhomer/creative/commit/876dd9219be5a504b4a3256737536ca87e05bbef) mentioned above if you're curious or want to use this on your own Gatsby site.
