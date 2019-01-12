@@ -35,10 +35,15 @@ h4,
   margin: 0;
 }
 
+h2,
+.sceneheader {
+	font-weight: bold !important;
+}
+
 .fountain > p,
 .action {
 	padding-right: 5% !important;
-  padding-top: 15px;
+  padding-top: 25px;
 }
 
 h4,
@@ -47,7 +52,8 @@ h4,
 }
 
 .dialogue {
-  max-width: 250px;
+	max-width: 250px;
+	padding-top: 10px;
   margin: 0 auto;
 }
 
