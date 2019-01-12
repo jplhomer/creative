@@ -1,0 +1,73 @@
+/*
+	fountain.css
+	fountain is a CSS template designed for including short sections of screenplay-formatted material in blog posts.
+	Originally developed by John August - johnaugust.com
+	Last modified 8/21/08
+*/
+
+div.fountain {
+  background: #ffffff;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, .2);
+	color: #000000;
+	padding: 1em 1.5em 1.5em !important;
+  margin: 1rem auto 3em;
+  line-height: 1.5;
+  font: 1em Courier, "Courier New", monospace !important;
+}
+
+div.fountain * {
+  font: inherit;
+}
+
+.fountain p {
+  text-align: left !important;
+	letter-spacing: 0 !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+h2,
+.sceneheader,
+.action,
+h4,
+.character {
+	padding-top: 1.5ex !important;
+	margin: 0 !important;
+}
+
+h2,
+.sceneheader {
+	font-weight: bold !important;
+}
+
+.fountain > p,
+.action {
+	padding-right: 5% !important;
+  padding-top: 25px;
+}
+
+h4,
+.character {
+	padding-left: 40% !important;
+}
+
+.dialogue {
+	max-width: 250px;
+	padding-top: 10px;
+  margin: 0 auto;
+}
+
+.parenthetical {
+	padding-left: 32% !important;
+	padding-right: 30% !important;
+}
+
+.dialogue + .parenthetical {
+	padding-bottom: 0 !important;
+}
+
+.transition {
+	padding-top: 3ex !important;
+	padding-left: 65% !important;
+	padding-bottom: 1.5ex !important;
+}
