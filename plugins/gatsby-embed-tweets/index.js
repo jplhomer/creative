@@ -23,8 +23,6 @@ async function replaceLinksWithTweets(nodes) {
 
 async function replaceLinkWithTweet(node) {
   try {
-    console.log(`Process node ${node.url}`);
-
     if (!isTweet(node.url)) {
       return;
     }

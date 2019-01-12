@@ -43,7 +43,8 @@ module.exports = {
           `gatsby-remark-autolink-headers`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
-          `gatsby-embed-tweets`
+          `gatsby-embed-tweets`,
+          `gatsby-remark-fountain`
         ],
       },
     },
