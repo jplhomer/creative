@@ -5,7 +5,7 @@
 	Last modified 8/21/08
 */
 
-div.fountain {
+.fountain {
   background: #ffffff;
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, .2);
 	color: #000000;
@@ -15,7 +15,7 @@ div.fountain {
   font: 1em Courier, "Courier New", monospace !important;
 }
 
-div.fountain * {
+.fountain * {
   font: inherit;
 }
 
@@ -26,47 +26,47 @@ div.fountain * {
 	margin-bottom: 0px !important;
 }
 
-h2,
-.sceneheader,
-.action,
-h4,
-.character {
+.fountain h2,
+.fountain .sceneheader,
+.fountain .action,
+.fountain h4,
+.fountain .character {
 	padding-top: 1.5ex !important;
 	margin: 0 !important;
 }
 
-h2,
-.sceneheader {
+.fountain h2,
+.fountain .sceneheader {
 	font-weight: bold !important;
 }
 
 .fountain > p,
-.action {
+.fountain .action {
 	padding-right: 5% !important;
   padding-top: 25px;
 }
 
-h4,
-.character {
+.fountain h4,
+.fountain .character {
 	padding-left: 40% !important;
 }
 
-.dialogue {
+.fountain .dialogue {
 	max-width: 250px;
 	padding-top: 10px;
   margin: 0 auto;
 }
 
-.parenthetical {
+.fountain .parenthetical {
 	padding-left: 32% !important;
 	padding-right: 30% !important;
 }
 
-.dialogue + .parenthetical {
+.fountain .dialogue + .parenthetical {
 	padding-bottom: 0 !important;
 }
 
-.transition {
+.fountain .transition {
 	padding-top: 3ex !important;
 	padding-left: 65% !important;
 	padding-bottom: 1.5ex !important;
