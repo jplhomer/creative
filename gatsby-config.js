@@ -3,6 +3,7 @@ module.exports = {
     title: `Creative`,
     author: `Josh Larson`,
     description: `A challenge: to create something every day.`,
+    defaultImage: `https://jplhomer.org/app/uploads/2019/01/JoshSuite_wow.jpg`,
     siteUrl: `https://creative.jplhomer.org/`,
     social: {
       twitter: `jplhomer`,

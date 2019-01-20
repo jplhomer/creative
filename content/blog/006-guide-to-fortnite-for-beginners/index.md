@@ -1,6 +1,7 @@
 ---
 title: "Day 6: Fortnite for people like me who don't normally play video games"
 date: 2019-01-20
+image: https://creative-8qtd3ypxt.now.sh/static/48bd22b1bd801197cb3ed835383edf95/a8a50/overlook_1.jpg
 ---
 
 ![The main Fortnite loading screen](./main_screen.jpg)
