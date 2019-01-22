@@ -1,5 +1,5 @@
 ---
-title: "Day 8: You should see Eighth Grade, a movie by Bo Burnham"
+title: "Day 7: You should see Eighth Grade, a movie by Bo Burnham"
 date: 2019-01-21
 ---
 
