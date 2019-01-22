@@ -28,7 +28,7 @@ That was ME. It probably took _so much courage_ to speak up and try to give a co
 
 It's something I often wonder about. So many grown-ass adults are addicted to social media. Can you imagine what effects it has on kids who are in the midst of their tumultuous middle school years?
 
-This movie really illuminated what it's like for kids, with the smartphones and the Instagram DMs and the cold, cold way girls can treat eachother.
+This movie really illuminated what it's like for kids, with the smartphones and the Instagram DMs and the cold, cold way girls can treat each other.
 
 People are so connected, and that means amazing things happen. But that means loneliness for so many folks.
 
