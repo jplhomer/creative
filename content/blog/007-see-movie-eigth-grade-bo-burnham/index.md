@@ -1,6 +1,7 @@
 ---
 title: "Day 7: You should see Eighth Grade, a movie by Bo Burnham"
 date: 2019-01-21
+image: https://pmcvariety.files.wordpress.com/2018/01/eighth-grade_edited.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y8lFgF_IjPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
