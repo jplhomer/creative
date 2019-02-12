@@ -102,4 +102,4 @@ I ended up hardcoding the routes to point to production, because I wanted to sha
 
 Honestly, I am blown away by how slick the Next.js framework is and by how easy it is to deploy to Zeit Now. The hiccups along the way are just the price you pay for using bleeding-edge technology.
 
-**Visit Openboard at https://openboard.now.sh! Search 'josh larson', or view my stats page here: https://openboard.now.sh/athlete?id=1005789**
+**Visit Openboard at [https://openboard.now.sh](https://openboard.now.sh)! Search 'josh larson', or view my stats page here: https://openboard.now.sh/athlete?id=1005789**
