@@ -1,6 +1,7 @@
 ---
 title: "Day 9: My Dream Side Project"
 date: 2019-02-11
+image: https://files-ew26yfdvy.now.sh/carbon.png
 ---
 
 I've been mentoring people who are learning to code. In several cases, they've wanted to build a traditional web application using PHP frameworks like [Laravel](https://laravel.com) or [WordPress](https://wordpress.org).
