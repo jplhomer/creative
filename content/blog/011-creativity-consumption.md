@@ -65,3 +65,5 @@ I'm going to try harder to focus and carve out time to be creative during naptim
 
 And sometimes, I'll take a nap or take a shower instead. Sue me.
 
+Anyway, my son is about to wake up. I knocked out this entire post during his morning nap 🎉 Please clap.
+
