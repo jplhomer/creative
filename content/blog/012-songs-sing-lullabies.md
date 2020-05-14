@@ -21,8 +21,10 @@ Note: the set list varies from night to night, and I can't guarantee I know all 
 1. "We Bury The Hatchet" - Garth Brooks
 1. "Summer in the City" - Regina Spektor
 1. "Samson" - Regina Spektor
+1. "Firewood" - Regina Spektor
 1. "Keep Warm" - Ingrid Michaelson
 1. "The Chain" - Ingrid Michaelson
+1. "The Way I Am" - Ingrid Michaelson
 1. "Over The Rainbow" - Judy Garland
 1. "The Man That Got Away" - Judy Garland
 1. "Moon River" - Andy Williams
