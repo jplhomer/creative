@@ -35,6 +35,7 @@ Note: the set list varies from night to night, and I can't guarantee I know all 
 1. "Amarillo Sky" - Jason Aldean
 1. "My Beta Sweetheart" - Beta Theta Pi fraternity
 1. "Beta Rose" - Beta Theta Pi fraternity
+1. "The Bells of Iowa State" - Alma Mater
 1. "Hey Ya" - The Blanks cover of Outkast
 1. "Hallelujah" - Rufus Wainwright cover of Leonard Cohen
 1. "America the Beautiful" - Straight No Chaser
@@ -60,3 +61,4 @@ Note: the set list varies from night to night, and I can't guarantee I know all 
 1. "Colors of the Wind" - Pocahontas
 1. "When I'm Gone" - Randy Newman
 1. "For The Longest Time" - Billy Joel
+1. "I Believe" - Brooks and Dunn
