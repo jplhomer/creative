@@ -47,6 +47,7 @@ Note: the set list varies from night to night, and I can't guarantee I know all 
 1. "Have Yourself a Merry Little Christmas" - Judy Garland
 1. "Fly Me To The Moon" - Frank Sinatra
 1. "One For My Baby (And One More For the Road)" - Frank Sinatra
+1. "My Way" - Frank Sinatra
 1. "Life On Mars" - David Bowie
 1. "I Get A Kick Out Of You" - Frank Sinatra
 1. "The Way You Look Tonight" - Frank Sinatra
@@ -62,3 +63,4 @@ Note: the set list varies from night to night, and I can't guarantee I know all 
 1. "When I'm Gone" - Randy Newman
 1. "For The Longest Time" - Billy Joel
 1. "I Believe" - Brooks and Dunn
+1. "Cool Water" - Marty Robbins
